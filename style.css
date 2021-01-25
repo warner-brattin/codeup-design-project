@@ -137,3 +137,24 @@ h2 {
   text-align: center;
   padding: 10px;
 }
+
+@media screen and (min-width: 576px) {
+  .jumbotron-fluid {
+    background-color: #E6E6E6;
+  }
+  div > .flex-grow-1 {
+    background-color: #E6E6E6;
+  }
+  .p-2  {
+    background-color: #FFFFFF;
+  }
+}
+
+@media screen and (min-width: 150px) {
+  .jumbotron-fluid {
+    background-color: #E6E6E6;
+  }
+  div > .flex-grow-1 {
+    background-color: #E6E6E6;
+  }
+}
