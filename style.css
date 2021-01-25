@@ -1,0 +1,139 @@
+* {
+  box-sizing: border-box;
+  background-color: #E6E6E6;
+}
+
+body {
+  background-color: #E6E6E6;
+}
+
+.jumbotron-fluid {
+  padding-bottom: 65px;
+}
+
+
+
+.anton {
+  font-family: 'Anton', sans-serif;
+}
+
+.abel {
+  font-family: 'Abel', sans-serif;
+}
+
+
+p {
+  background-color: #E6E6E6;
+}
+
+#circleContainer {
+  background-color: #E6E6E6;
+  display: flex;
+}
+
+.color-red {
+  background-color: #E6563B;
+  margin: 5px;
+}
+
+.color-orange {
+  background-color: #DEA03D;
+  margin: 5px;
+}
+
+.color-green {
+  background-color: #7CB06C;
+  margin: 5px;
+}
+
+.color-teal {
+  background-color: #00ABA9;
+  margin: 5px;
+}
+
+.bigCircle {
+  font-family: 'Anton', sans-serif;
+  color: white;
+  width: 105px;
+  height: 105px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: 5px solid white;
+}
+
+#design {
+  background-color: #E6563B;
+}
+
+#develop {
+  background-color: #DEA03D;
+}
+
+#support{
+  background-color: #7CB06C;
+}
+
+#host{
+  background-color: #00ABA9;
+}
+
+#headings {
+  padding-top: 0;
+}
+
+hr {
+  width: 65%;
+}
+
+#featured-projects-card {
+  width: 18px;
+  height: 18px;
+  background-color: #E6E6E6;
+}
+
+.img-fluid {
+  border: 5px solid #E6E6E6;
+}
+
+
+.logo-pos {
+  top: 30px;
+}
+
+.media-body {
+  font-size: 15px;
+  background-color: #F0F0F0;
+}
+
+p, img {
+  background-color: #F0F0F0;
+}
+
+.badge {
+  border-radius: 100%;
+}
+
+.list-group-item {
+  background-color: #F0F0F0;
+}
+.the-last {
+  padding-bottom: 20px;
+}
+h1 {
+  font-size: 64px;
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  padding-right: 0;
+  padding-bottom: 10px;
+  padding-left: 0;
+  margin-top: 60px;
+}
+
+h2 {
+  font-size: 48px;
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  padding: 10px;
+}
